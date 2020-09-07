@@ -27,7 +27,7 @@ $password_set = "NO PASSWORD"; // Password to enter the list of PDFs.
 PDFs folder must be reached by navigating from the project root path.
 Example of $pdfs_folder_path route:
 ```
-$pdfs_folder_path = '../../Documents/Movies/'
+$pdfs_folder_path = '../../Documents/books/'
 ```
 Happy lecture!
 
