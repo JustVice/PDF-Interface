@@ -38,10 +38,10 @@ if ($password_set == "NO PASSWORD") {
                         About
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" target="_blank" href="http://github.com/justvice/pdf-interface">Github repository</a>
-                        <a class="dropdown-item" target="_blank" href="https://justvice.github.io/technology/web-software/pdf-interface/">PDF Inteface's website</a>
+                        <a class="dropdown-item" target="_blank" href="http://github.com/splitvice/pdf-interface">Github repository</a>
+                        <a class="dropdown-item" target="_blank" href="https://split-vice.com/technology/web-software/pdf-interface/">PDF Inteface's website</a>
                         <div class="dropdown-divider"></div>
-                        <a target="_blank" class="dropdown-item" href="https://justvice.github.io/s/twitter">Programmer's Twitter</a>
+                        <a target="_blank" class="dropdown-item" href="https://split-vice.com/s/twitter">Programmer's Twitter</a>
                     </div>
                 </li>
             </ul>
